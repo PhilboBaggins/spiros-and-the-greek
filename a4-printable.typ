@@ -8,4 +8,3 @@
   #image(width: 4in, height: 6in, "Spiros_Vondas_4x6.png")
   #image(width: 4in, height: 6in, "The_Greek_4x6.png")
 ])
-
